@@ -1,0 +1,80 @@
+body{
+    background: #FFF5F5;
+    font-family: JetBrains Mono;
+}
+
+header{
+    background: linear-gradient(to right, #1D2671, #C33764);
+    height: 140px;
+}
+
+.logo{
+    width: 80px;
+    background: none;
+    height:80px;
+    margin:14px 100px 11px 26px;
+
+}
+
+nav a{
+    color: #000;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 30px;
+    padding: 10px;
+    text-decoration: none;
+    background: linear-gradient(180deg, #FFEDEE 0%, #FFF 100%);
+    margin: 30px;
+}
+
+nav img{
+    margin-top: 50px;
+    width: 40px;
+    height: 40px;
+    background-color: #FFF4F5;
+    padding: 7px;
+    border-radius: 25px;
+}
+
+main h1{
+    color: #242BE4;
+    font-size: 55px;
+    font-weight: 700;
+    width: 308px;
+    height: 206px;
+    margin-left:28px;
+}
+
+main img{
+    width: 100%;
+    border-top: 5px solid #0029FF;
+    padding-top: 8px;
+}
+
+footer{
+    background: #242BE4;
+    color:white; 
+}
+
+footer h2{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    margin-right: 29px;
+    margin-left: 29px;
+    padding-top:24px;
+}
+
+footer p {
+    margin-right: 29px;
+    margin-left: 29px;
+}
+
+.line_top{
+    border-top: 3px solid white;
+    padding-bottom:39px;
+}
